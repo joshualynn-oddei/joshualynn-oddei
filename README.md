@@ -1,3 +1,6 @@
+![Joshualynn's Profile Banner](ChatGPT%20Image%20Oct%204,%202026,%2008_30_24%20PM.png)
+
+---
 # JOSHUALYNN ODDEI
 
 ### Computer Science Student · Aspiring Entrepreneur

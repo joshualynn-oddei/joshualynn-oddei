@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Joshualynn Oddei! 👋
 
-<!--
-**joshualynn-oddei/joshualynn-oddei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Entrepreneur
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student with interests in software development, web technologies, and data science.
+
+As an entrepreneur, I aspire to integrate software and technology into business operations to enhance efficiency, improve work output, and deliver better customer experiences.
+
+## Technical Skills
+
+- C
+- C++
+- Python
+
+## Areas of Interest
+
+- Data Science & Analytics
+- Software Development
+- Web Development
+- Business Innovation
+- Technology-Driven Business Solutions
+
+## My Vision
+
+To bridge the gap between technology and business by leveraging software, data, and innovation to create more efficient operations, improve productivity, and enhance customer experiences.
+
+---
+
+*Technology meets innovation. Business meets possibility.*

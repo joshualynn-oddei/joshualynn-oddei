@@ -32,5 +32,19 @@ My interests span software development, web technologies, and data science. As a
 I believe technology is most valuable when it solves meaningful problems, simplifies processes, and creates opportunities for growth.
 
 ---
+---
+
+### Currently Learning
+
+- C Programming
+- C++ and Object-Oriented Programming
+- Python
+- SQL
+
+### My Interests
+
+Technology, creative problem-solving, software development, and building solutions that connect technology with business.
+
+---
 
 *Building knowledge. Exploring possibilities. Creating with purpose.*

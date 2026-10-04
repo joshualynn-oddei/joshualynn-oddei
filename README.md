@@ -1,6 +1,6 @@
 # JOSHUALYNN ODDEI
 
-### Computer Science Student · Entrepreneur
+### Computer Science Student · Aspiring Entrepreneur
 
 ---
 
